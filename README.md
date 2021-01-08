@@ -2,10 +2,6 @@
 
 This is a React theme boilerplate for WordPress, built with Next JS, Webpack, Babel, Node, Express.
 
-## Live demo site.
-
-[Live Demo](https://artwithaliens.com)
-
 ## Getting Started :surfer:
 
 These instructions will get you a copy of the project up and running on your local machine for
@@ -13,9 +9,8 @@ development purposes.
 
 ### Installing :wrench:
 
-1. Clone this repo in `git@github.com:artwithaliens/storefront.git`
-2. `cd storefront`
-3. `yarn install`
+1. Clone this repo
+2. `yarn install`
 
 ## Configure Backend (WordPress site) :wrench:
 
@@ -75,15 +70,6 @@ GRAPHQL_URL=http://wordpressSiteUrl/graphql
 - It will be downloaded and saved as a Progressive Web App on your mobile.
 - Once added look `Art With Aliens` app on your mobile.
 - This PWA will work even when you are offline.
-
-## Branches Information: :seedling:
-
-1. [master](https://github.com/artwithaliens/storefront/tree/master) Main React WooCommerce theme
-2. [develop](https://github.com/artwithaliens/storefront/tree/develop) For testing
-
-## Author
-
-- [Eike Foken](https://eikefoken.com)
 
 ## License :page_with_curl:
 
